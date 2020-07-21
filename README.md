@@ -1,16 +1,20 @@
-### Hi there 👋
+### mrgold92
+Hello, welcome to my github page. I'm a Fullstack Developer and I'm passionate about everything related to web and desktop programming.
 
-<!--
-**mrgold92/mrgold92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Every day I try to improve and learn new things.
 
-Here are some ideas to get you started:
+### About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
+-  **Languages :** JAVA, PHP, JavaScript, C#...
+-  **Others :** Mysql, CSS3, HTML5, Flutter, Bootstrap, Laravel...
+-  **Hobbies :** Articles & Music :headphones:
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![github stats](https://github-readme-stats.vercel.app/api?username=mrgold92&show_icons=true)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+⭐️ From [mrgold92](https://github.com/mrgol92)
