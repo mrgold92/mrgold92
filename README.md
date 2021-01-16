@@ -1,4 +1,8 @@
-### mrgold92
+# Mrgold92
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/source.gif" alt="gif" width="500" height="400">
+<p>
 Hello, welcome to my github page. I'm a Fullstack Developer and I'm passionate about everything related to web and desktop programming.
 
 Every day I try to improve and learn new things.
