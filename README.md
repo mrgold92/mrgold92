@@ -7,7 +7,7 @@ Hello, welcome to my github page. I'm a Fullstack Developer and I'm passionate a
 
 Every day I try to improve and learn new things.
 
-### About
+## About
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
 -  **Languages :** JAVA, PHP, JavaScript, C#...
@@ -16,7 +16,7 @@ Every day I try to improve and learn new things.
 
 
 
-### 🔥 Technologies
+## 🔥 Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -31,11 +31,11 @@ Every day I try to improve and learn new things.
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-### Top languages 
+## Top languages 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrgold92&hide=TeX&layout=compact)
 
-### Stats 
+## Stats 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=mrgold92&show_icons=true)
 
